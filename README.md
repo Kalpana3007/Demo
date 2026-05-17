@@ -1,11 +1,9 @@
-# 👩‍💻 My Learning Journey
+# 👩‍💻 My Practice work and journey.
 
 A repo documenting my growth as a developer.
 
 ## 🎓 What I've Learned
 - Java (Object Oriented Programming, DSA basics)
-- React, TypeScript, JavaScript
-- Firebase, Tailwind CSS
 - Git & GitHub
 - Deployment with Vercel
 
